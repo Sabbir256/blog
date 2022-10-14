@@ -1,4 +1,4 @@
-name: Vite CI/CD
+name: Vite CI/CD test
 
 on:
   push:
